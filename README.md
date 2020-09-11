@@ -2,7 +2,7 @@
 
 **Code due: Immediately before your demo(s), Wednesday, September 16 at the latest**
 
-**Report due: Thursday, September 17, 23:59 EDT (Montréal time)**
+**Report due: Friday, September 18, 23:59 EDT (Montréal time)**
 
 This is the repository that contains the required files for the wall following lab.
 For lab objectives, demo and report requirements, and submission instructions, see
