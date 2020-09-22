@@ -54,9 +54,6 @@ public class Lab1 {
   /** The left and right motor speeds, respectively. */
   private static int[] motorSpeeds = new int[2];
   
-  /** The initial value of the error distance. */
-  // public static int distError = 0;
-  
   private static final int LEFT = 0;
   private static final int RIGHT = 1;
 
